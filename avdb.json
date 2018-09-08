@@ -1,0 +1,36 @@
+{
+  "city": {
+    "name": "Androidville",
+    "width": "20",
+    "height": "10"
+  },
+  "houses": [
+    {
+      "id": "1",
+      "name": "Rafael's Castle",
+      "address": {
+        "x": "3",
+        "y": "3"
+      },
+      "status": "vacant"
+    },
+    {
+      "id": "2",
+      "name": "Akash's Castle",
+      "address": {
+        "x": "4",
+        "y": "3"
+      },
+      "status": "occupied"
+    },
+    {
+      "id": "3",
+      "name": "Dave's Castle",
+      "address": {
+        "x": "2",
+        "y": "2"
+      },
+      "status": "occupied"
+    }
+  ]
+}
